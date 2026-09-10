@@ -1,9 +1,10 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   description: "A blog built with Quarto on experience and application of AI in drug discovery"
-  site-url: https://jeremycheminf.github.io/jeremybesnard.github.io # you must change this appropriately for RSS feeds to work properly
+  site-url: https://jeremybesnard.github.io # you must change this appropriately for RSS feeds to work properly
   title: "Jérémy's blog - AI & Drug Discovery"
   navbar:
     right:
