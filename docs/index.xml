@@ -6,14 +6,14 @@
       version="2.0">
 <channel>
 <title>Jérémy&#39;s blog - AI &amp; Drug Discovery</title>
-<link>https://jeremybesnard.github.io/</link>
-<atom:link href="https://jeremybesnard.github.io/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://jeremycheminf.github.io/</link>
+<atom:link href="https://jeremycheminf.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto on experience and application of AI in drug discovery</description>
 <generator>quarto-1.10.18</generator>
 <lastBuildDate>Wed, 09 Sep 2026 23:00:00 GMT</lastBuildDate>
 <item>
   <title>Welcome To My Blog</title>
-  <link>https://jeremybesnard.github.io/posts/welcome/</link>
+  <link>https://jeremycheminf.github.io/posts/welcome/</link>
   <description><![CDATA[ 
 
 
@@ -26,7 +26,7 @@
 
  ]]></description>
   <category>news</category>
-  <guid>https://jeremybesnard.github.io/posts/welcome/</guid>
+  <guid>https://jeremycheminf.github.io/posts/welcome/</guid>
   <pubDate>Wed, 09 Sep 2026 23:00:00 GMT</pubDate>
 </item>
 </channel>
